@@ -1,0 +1,44 @@
+.part0{
+    background-color: rgb(151, 151, 53);
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.HH{
+    margin-top: 100px;
+}
+.services{
+    text-align: center;
+    margin-top: 50px;
+}
+.services #card1{
+    border-radius: 7px;
+    margin-top: 20px;
+    /* margin-right: 50px; */
+    margin: 20px;
+    box-shadow: 1px 1px 10px 1px #797979;
+}
+.services #card2{
+    border-radius: 7px;
+    margin: 20px;
+    /* margin-right: 50px; */
+    box-shadow: 1px 1px 10px 1px #797979;
+}
+.services #card3{
+    border-radius: 7px;
+    box-shadow: 1px 1px 10px 1px #797979;
+    margin: 20px;
+    overflow: hidden;
+}
+.services img{
+    width: 50%;
+    height: 30%
+}
+.services a img{
+    width: 80%;
+    height: 40%
+}
+.services b{
+    display:inline-block;
+}
